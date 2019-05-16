@@ -5,4 +5,6 @@ NEw Changes/Updated Line
 
 New Line Added for the purpose of example branch.
 
-Line 1 Added For Merge Conflict Creation. Extra Text.
+Line 1 Added For Merge Conflict Creation. New Text Added.
+
+Commit With Latest Content Now.
